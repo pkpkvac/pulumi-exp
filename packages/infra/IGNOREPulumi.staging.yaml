@@ -1,0 +1,43 @@
+config:
+  aws:accessKey: AKIA5LNOGXTSKEUIGHZK
+  aws:allowedAccountIds:
+    - "917877734628"
+  aws:profile: Pulumi.IG_Dev_PowerUser
+  aws:region: us-west-2
+  aws:secretKey:
+    secure: AAABAJDcRt0vFTxaN8txFAXYyVtCbCr0zKLJiFpgdoQZd5Taa5P4bU1VOGg2VoxezAMkzrpbzxrCV3VcOgNjZXOeB+ubpilT
+  pulumi-test-pk:ALGOLIA_APPLICATION_ID:
+    secure: AAABAJLijpdwkK05GQGCuQ0KhvkA0zrIWdKWGd7SOryjQq2aQ/ym6FnW
+  pulumi-test-pk:ALGOLIA_ROUTES_API_KEY:
+    secure: AAABAGtmudj1sZog/EVjmY3RdWtFRYK+NZhITR/pj8gh97jrtV7y92HTxEp1pF4TBot1+HUFopQOvrfLn0r71Q==
+  pulumi-test-pk:ALGOLIA_WRITE_API_KEY:
+    secure: AAABAJ3fAhiiyac7oas5qJB91BD0cRxd/1Ww3go+fV/wobcygxXRftEwqZGrHt1TZVjhCsNwoMUgRjAFHyfwEA==
+  pulumi-test-pk:API_KEY_ALGOLIA_ROUTES: af9ef42d-0297-4b7b-a51d-40ce9209b800
+  pulumi-test-pk:AUTH0_AUDIENCE: thatcham-research-aiq-api
+  pulumi-test-pk:AUTH0_CLIENT_ID:
+    secure: AAABAOh1Ykfe6urYBl2IEEZjKc0cdixwvgqbtbIU6D59HIdCejgVn31rJdtunUYHHSrZo0PKWX9tlM2IrgJceQ==
+  pulumi-test-pk:AUTH0_CLIENT_SECRET:
+    secure: AAABABsGDIVCiGuZox65UOtEFGgaZRZjlszkC6vfFdzCbC+CWj3K+ETgXkGON2kOsR9iIw//SbGCyO1tsoUXhWHbmoyVXd9d93I2RYaVcSCjHKk9VPS6yH7NMuCrqDsA
+  pulumi-test-pk:AUTH0_ISSUER_BASE_URL: https://dev-thatcham.uk.auth0.com
+  pulumi-test-pk:AUTH0_SECRET:
+    secure: AAABACW2qrVCeyL+3fTOO2W4oprq18mVJ2g+p6QYdWEVqzsNr/vcYo0j3pW6+3QG7jBPk7B2oGQ/k6UXUbQpSFXp3+4=
+  pulumi-test-pk:NEXT_PUBLIC_ALGOLIA_APPLICATION_ID:
+    secure: AAABAJLijpdwkK05GQGCuQ0KhvkA0zrIWdKWGd7SOryjQq2aQ/ym6FnW
+  pulumi-test-pk:NEXT_PUBLIC_SECURE_UPLOADS_URL: https://thatcham-cdn.staging.intergalactic.space
+  pulumi-test-pk:POWERBI_CLIENT_ID:
+    secure: AAABAAYNhGsBP14/yzRhNrqhS4ZFXr1Job54wOydlgmduttJLOlsCuYw4pTSo9BE5aVekUKXqB4fFm2iFARzlgz39q8=
+  pulumi-test-pk:POWERBI_CLIENT_SECRET:
+    secure: AAABAPGAk3QufYTThFmKio/tZmiD2+WmGQPu48TRZ5nSKGyI8b+kISskvnzgw4TLZf9yOQI1EFIR81XtP6gbEtIZHgjzVNFc
+  pulumi-test-pk:POWERBI_TENANT:
+    secure: AAABANu38LbWfim0mFglMrwdA804eU2LO+H5MAiJXsqsiCFuhLi+4eWx8ElLo41uImXaFETsFBDa47aVRC+t3C0iPOo=
+  pulumi-test-pk:SANITY_PREVIEW_TOKEN:
+    secure: AAABAHEUDBe15ZKv0eWUhdj2WeCfmV2/uCVh/YSA4rstoBCuB7FfootODYsUqjRyqgLty8o+ScOqNbFgQ7sn2Bm8+3Be2QVxpOlFrvpAW4YkcU+g81dslHMsrJAvBbjYfYBXh9gx3+JNBDoF+O0Tm/RMtaqywO5oAPOq3/GLYe9RHtdPVZsAIF7nRZKPyu1Ne/M7ftq+4U9rMiV6tid/bQhhDeDBwOxtych8TPFqan3ErUqgBxHrtM0EM/z45E0coXaOeqQgybDJSpSk4EqRPCCv1Ng=
+  pulumi-test-pk:SANITY_WEBHOOK_SECRET:
+    secure: AAABAO/ZUXkitQUrPWxELFbc+/Jxj0AP90kH298EoDvNNe1j2S3l6pzBXq+XFXcl/PllxfbSEfHL0ZytnmlvOw==
+  pulumi-test-pk:alb: ig-alb-dev-c149d64
+  pulumi-test-pk:cert: arn:aws:acm:us-west-2:917877734628:certificate/e2c0ed93-9f8a-48a6-a327-11af7704a59d
+  pulumi-test-pk:cluster: ig-dev-76cf595
+  pulumi-test-pk:env: staging
+  pulumi-test-pk:listener: arn:aws:elasticloadbalancing:us-west-2:917877734628:listener/app/ig-alb-dev-c149d64/d0caa947a586647a/53bbad45954a8224
+  pulumi-test-pk:rulePriority: "12"
+  pulumi-test-pk:url: thatcham.staging.intergalactic.space

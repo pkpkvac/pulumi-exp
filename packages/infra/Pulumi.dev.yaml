@@ -1,0 +1,9 @@
+{
+  config:
+    {
+      "pulumi-test-pk:ALGOLIA_ROUTES_API_KEY":
+        {
+          secure: AAABANLH5VSYJMtPnEo90pAxlsrNRtCM5otDziTyWdLW1UYCcWixUoG+MgK+58HcVnkdwlUokKhKG4H+O4SX0oYzThY=,
+        },
+    },
+}
